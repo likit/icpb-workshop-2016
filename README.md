@@ -1,5 +1,6 @@
 # ICPB Workshop 2016
 ## Python stack for scientific computing
+## https://github/likit/icpbworkshop-2016/
 Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 
 ## Resources
@@ -9,6 +10,7 @@ Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 - Continuum Anaconda Python: https://www.continuum.io/downloads
 - IPython: http://ipython.org/
 - Jupyter: http://jupyter.org/
+- Matplotlib library: http://matplotlib.org/
 - Rpy2: http://rpy2.readthedocs.org/en/version_2.7.x/
 - Conda for R: https://www.continuum.io/conda-for-r
 
