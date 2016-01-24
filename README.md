@@ -1,6 +1,6 @@
 # ICPB Workshop 2016
 ## Python stack for scientific computing
-Instructor: Likit Preeyanon: likit.pre@mahidol.edu
+Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 
 ## Resources
 ### Online
