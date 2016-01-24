@@ -4,15 +4,13 @@
 Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 
 ## Resources
-### Online tutorials and websites
-- Spyder video tutorials: http://datasciencesource.com/python-with-spyder-tutorial/
-- Python lessons from Software Carpentry: http://swcarpentry.github.io/python-novice-inflammation/
+### Tools
+- Python package index: https://pypi.python.org/pypi
 - Continuum Anaconda Python: https://www.continuum.io/downloads
 - IPython: http://ipython.org/
 - Jupyter: http://jupyter.org/
-- Matplotlib library: http://matplotlib.org/
-- Rpy2: http://rpy2.readthedocs.org/en/version_2.7.x/
 - Conda for R: https://www.continuum.io/conda-for-r
+- Spyder IDE: https://pythonhosted.org/spyder/
 
 ### Some scientific libraries
 - Rdkit: https://github.com/rdkit/conda-rdkit
@@ -22,6 +20,10 @@ Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 - statmodels (statistics): http://statsmodels.sourceforge.net/
 - Pandas (data analysis): http://pandas.pydata.org/
 - BioPython: http://biopython.org/wiki/Main_Page
+- Matplotlib library: http://matplotlib.org/
+- Rpy2: http://rpy2.readthedocs.org/en/version_2.7.x/
 
-### Examples
+### Examples and tutorials
 - Rdkit: https://code.google.com/p/rdkit/wiki/Tutorials
+- Spyder video tutorials: http://datasciencesource.com/python-with-spyder-tutorial/
+- Python lessons from Software Carpentry: http://swcarpentry.github.io/python-novice-inflammation/
