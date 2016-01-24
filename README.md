@@ -4,7 +4,7 @@
 Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 
 ## Resources
-### Online
+### Online tutorials and websites
 - Spyder video tutorials: http://datasciencesource.com/python-with-spyder-tutorial/
 - Python lessons from Software Carpentry: http://swcarpentry.github.io/python-novice-inflammation/
 - Continuum Anaconda Python: https://www.continuum.io/downloads
@@ -14,4 +14,14 @@ Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 - Rpy2: http://rpy2.readthedocs.org/en/version_2.7.x/
 - Conda for R: https://www.continuum.io/conda-for-r
 
-### Books
+### Some scientific libraries
+- Rdkit: https://github.com/rdkit/conda-rdkit
+- Scikit-learn (machine learning): http://scikit-learn.org/stable/
+- Numpy (numerical python): http://www.numpy.org/
+- Scipy (scientific libraries): http://www.scipy.org/
+- statmodels (statistics): http://statsmodels.sourceforge.net/
+- Pandas (data analysis): http://pandas.pydata.org/
+- BioPython: http://biopython.org/wiki/Main_Page
+
+### Examples
+- Rdkit: https://code.google.com/p/rdkit/wiki/Tutorials
