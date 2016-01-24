@@ -22,6 +22,7 @@ Contact: Likit Preeyanon (likit.pre@mahidol.edu)
 - BioPython: http://biopython.org/wiki/Main_Page
 - Matplotlib library: http://matplotlib.org/
 - Rpy2: http://rpy2.readthedocs.org/en/version_2.7.x/
+- Open Drug Discovery toolkits: http://pythonhosted.org/oddt/
 
 ### Examples and tutorials
 - Rdkit: https://code.google.com/p/rdkit/wiki/Tutorials
